@@ -1,13 +1,13 @@
 **Company: Codetech IT Solutions**
  
-Intern: Muthu Savitha R  
-Intern ID: CTIS0334  
+Intern: Gnana Jothi G.  
+Intern ID: CTIS0336 
 Domain: Frontend Development  
 Duration: 4 Weeks  
 Mentor: Neela Santhosh
 
 **Personal Portfolio Website**
-The Personal Portfolio Website is a fully responsive and interactive web application designed to showcase my skills, projects, and contact details in a professional manner. It provides a clean and modern user interface where visitors can view my profile, technical skills, and project work.
+The Personal Portfolio Website is a fully responsive and teractive web application designed to showcase my skills, projects, and contact details in a professional manner. It provides a clean and modern user interface where visitors can view my profile, technical skills, and project work.
 The website is optimized for both desktop and mobile devices, ensuring a smooth and engaging user experience.
 
 🚀 **Key Features**
