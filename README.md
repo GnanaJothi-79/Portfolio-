@@ -1,7 +1,7 @@
 **Company: Codetech IT Solutions**
  
-Intern: Gnana Jothi G.  
-Intern ID: CTIS0336 
+Intern: Gnana Jothi G    
+Intern ID: CTIS0336   
 Domain: Frontend Development  
 Duration: 4 Weeks  
 Mentor: Neela Santhosh
